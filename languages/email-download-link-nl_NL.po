@@ -68,15 +68,15 @@ msgstr "Downloadlink"
 #: ../subscribers/subscribers-show.php:67
 #: ../subscribers/subscribers-show.php:77
 msgid "Downloads"
-msgstr "Downloads "
+msgstr "Downloads"
 
 #: ../classes/ed-register.php:121 ../cron/cron-add.php:121
 msgid "Cron Details"
-msgstr ""
+msgstr "Cron gegevens"
 
 #: ../classes/ed-register.php:124 ../settings/settings-edit.php:147
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
 #: ../classes/ed-register.php:127
 msgid "Download History"
@@ -89,33 +89,33 @@ msgstr "Wilt u dit record verwijderen?"
 #: ../classes/ed-register.php:144 ../downloads/downloads-add.php:157
 #: ../downloads/downloads-edit.php:153
 msgid "Please enter title for your download link."
-msgstr ""
+msgstr "Voer de titel in voor uw download link."
 
 #: ../classes/ed-register.php:145 ../downloads/downloads-add.php:153
 #: ../downloads/downloads-edit.php:149
 msgid ""
 "Please upload your file to generate download link or enter your download "
 "link."
-msgstr ""
+msgstr "Upload uw bestand om een download te genereren of voer uw link in."
 
 #: ../classes/ed-register.php:146 ../downloads/downloads-add.php:179
 #: ../downloads/downloads-edit.php:183
 msgid "Please enter expiration date for this download URL. YYYY-MM-DD."
-msgstr ""
+msgstr "Voer de vervaldatum in voor deze download URL. YYYY-MM-DD."
 
 #: ../classes/ed-register.php:147 ../downloads/downloads-add.php:186
 #: ../downloads/downloads-edit.php:190
 msgid "Please select your refresh type for the download link."
-msgstr ""
+msgstr "Selecteer uw vernieuwingstype voor de downloadkoppeling."
 
 #: ../classes/ed-register.php:148 ../downloads/downloads-add.php:58
 #: ../downloads/downloads-add.php:174 ../downloads/downloads-edit.php:179
 msgid "Please select or enter your group name for this download link."
-msgstr ""
+msgstr "Selecteer of voer de groepsnaam in voor deze downloadkoppeling."
 
 #: ../classes/ed-register.php:172
 msgid "Do you want to export the emails?"
-msgstr ""
+msgstr "Wilt u de e-mails exporteren?"
 
 #: ../classes/ed-register.php:347 ../subscribers/subscribers-downloads.php:60
 #: ../subscribers/subscribers-downloads.php:71
@@ -128,7 +128,7 @@ msgstr "Naam"
 
 #: ../classes/ed-register.php:361
 msgid "Email *"
-msgstr "Email adres *"
+msgstr "E-mail adres *"
 
 #: ../classes/ed-register.php:384
 msgid "Dowloads *"
@@ -137,7 +137,7 @@ msgstr "Downloads *"
 #: ../classes/ed-register.php:388 ../downloads/downloads-add.php:161
 #: ../downloads/downloads-edit.php:157
 msgid "Select"
-msgstr ""
+msgstr "Selecteer"
 
 #: ../classes/ed-register.php:397
 msgid "Send Download Link"
@@ -145,45 +145,45 @@ msgstr "Download link versturen"
 
 #: ../classes/ed-register.php:496
 msgid "Widget title"
-msgstr ""
+msgstr "Widget titel"
 
 #: ../classes/ed-register.php:500
 msgid "Short description for your download form."
-msgstr ""
+msgstr "Korte beschrijving van uw downloadformulier."
 
 #: ../classes/ed-register.php:504
 msgid "Display NAME box"
-msgstr ""
+msgstr "Geef het vak NAME weer"
 
 #: ../classes/ed-register.php:511
 msgid "Set NAME box is mandatory box?"
-msgstr ""
+msgstr "Het vak NAME instellen is verplicht?"
 
 #: ../classes/ed-register.php:518
 msgid "Select download link for this form."
-msgstr ""
+msgstr "Selecteer downloadlink voor dit formulier."
 
 #: ../classes/ed-register.php:542
 msgid "Select download group for this form."
-msgstr ""
+msgstr "Selecteer downloadgroep voor dit formulier."
 
 #: ../cron/cron-add.php:8 ../downloads/downloads-show.php:9
 #: ../subscribers/subscribers-show.php:10
 msgid "Click Here"
-msgstr ""
+msgstr "Klik hier"
 
 #: ../cron/cron-add.php:23 ../downloads/downloads-edit.php:10
 #: ../downloads/downloads-view.php:10 ../settings/settings-edit.php:11
 msgid "Oops, selected details doesnt exist."
-msgstr ""
+msgstr "Oeps, geselecteerde gegevens bestaan niet"
 
 #: ../cron/cron-add.php:94 ../settings/settings-edit.php:106
 msgid "Details was successfully updated."
-msgstr ""
+msgstr "Gegevens zijn succesvol bijgewerkt"
 
 #: ../cron/cron-add.php:99 ../settings/settings-edit.php:111
 msgid "Oops, details not update."
-msgstr ""
+msgstr "Oeps, details zijn niet bijgewerkt."
 
 #: ../cron/cron-add.php:124
 msgid "WordPress Cron"
@@ -191,51 +191,53 @@ msgstr ""
 
 #: ../cron/cron-add.php:126
 msgid "YES (Use WP CRON, Daily refresh)"
-msgstr ""
+msgstr "JA (Gebruik WP CRON, Dagelijkse verversing"
 
 #: ../cron/cron-add.php:127
 msgid "YES (Use WP CRON, Refresh on every Sunday)"
-msgstr ""
+msgstr "JA (gebruik WP CRON, ververs elke zondag"
 
 #: ../cron/cron-add.php:128
 msgid "YES (Use WP CRON, Refresh on every Monday)"
-msgstr ""
+msgstr "JA (gebruik WP CRON, ververs elke maandag"
 
 #: ../cron/cron-add.php:129
 msgid "YES (Use WP CRON, Refresh on every Tuesday)"
-msgstr ""
+msgstr "JA (gebruik WP CRON, ververs elke dinsdag"
 
 #: ../cron/cron-add.php:130
 msgid "YES (Use WP CRON, Refresh on every Wednesday)"
-msgstr ""
+msgstr "JA (gebruik WP CRON, ververs elke woensdag"
 
 #: ../cron/cron-add.php:131
 msgid "YES (Use WP CRON, Refresh on every Thursday)"
-msgstr ""
+msgstr "JA (gebruik WP CRON, ververs elke donderdag"
 
 #: ../cron/cron-add.php:132
 msgid "YES (Use WP CRON, Refresh on every Friday)"
-msgstr ""
+msgstr "JA (gebruik WP CRON, ververs elke vrijdag"
 
 #: ../cron/cron-add.php:133
 msgid "YES (Use WP CRON, Refresh on every Saturday)"
-msgstr ""
+msgstr "JA (gebruik WP CRON, ververs elke zaterdag"
 
 #: ../cron/cron-add.php:134
 msgid "YES (Use WP CRON, Refresh on every Sunday and Wednesday)"
-msgstr ""
+msgstr "JA (gebruik WP CRON, ververs elke zondag en woensdag"
 
 #: ../cron/cron-add.php:138
 msgid ""
 "YES : Plugin will use WP CRON option to refresh download URLs. No manual "
 "configuration is required."
-msgstr ""
+msgstr "YES: Plugin gebruikt de WP CRON-optie om download-URL's te vernieuwen. Geen handmatige "
+"configuratie is vereist."
 
 #: ../cron/cron-add.php:139
 msgid ""
 "NO : Plugin will not use WP CRON option to refresh download URLs you have to "
 "configure CRON JOB in your server using below Cron job URL."
-msgstr ""
+msgstr "Plugin gebruikt geen WP CRON-optie om download-URL's te vernieuwen. Noodzakelijk "
+"configureer CRON JOB op uw server met behulp van de onderstaande Cron-taak-URL."
 
 #: ../cron/cron-add.php:142
 msgid "Cron job URL"
@@ -245,27 +247,29 @@ msgstr ""
 msgid ""
 "Please find your cron job URL. This is read only field not able to modify "
 "from admin."
-msgstr ""
+msgstr "Zoek A.U.B. de cron-functie-URL op. Dit is een alleen-lezen veld niet in staat om te wijzigen "
+"van admin."
 
 #: ../cron/cron-add.php:146 ../settings/settings-edit.php:221
 msgid "Admin mail content"
-msgstr ""
+msgstr "Admin e-mail inhoud"
 
 #: ../cron/cron-add.php:148
 msgid ""
 "Enter the mail content for admin. This will send whenever cron URL is "
 "triggered."
-msgstr ""
+msgstr "Voer de e-mail inhoud voor admin in. Dit wordt verzonden wanneer de cron-URL "
+"veroorzaaktis geactiveerd."
 
 #: ../cron/cron-add.php:153 ../downloads/downloads-add.php:190
 #: ../downloads/downloads-edit.php:196
 msgid "Submit"
-msgstr ""
+msgstr "Bevestigen"
 
 #: ../cron/cron-add.php:154 ../downloads/downloads-add.php:191
 #: ../downloads/downloads-edit.php:197 ../settings/settings-edit.php:250
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 #: ../cron/cron-add.php:155 ../downloads/downloads-add.php:192
 #: ../downloads/downloads-edit.php:198 ../downloads/downloads-show.php:163
@@ -275,7 +279,7 @@ msgstr ""
 #: ../subscribers/subscribers-export.php:51
 #: ../subscribers/subscribers-show.php:151
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 #: ../cron/cron-add.php:195
 msgid "Hook name"
@@ -283,53 +287,53 @@ msgstr ""
 
 #: ../cron/cron-add.php:196
 msgid "Actions"
-msgstr ""
+msgstr "Actie"
 
 #: ../cron/cron-add.php:197
 msgid "Last run"
-msgstr ""
+msgstr "Laatste activiteit(en)"
 
 #: ../cron/cron-add.php:198
 msgid "Next download link refresh"
-msgstr ""
+msgstr "Volgende verversing downloadlink(s)"
 
 #: ../downloads/downloads-add.php:46 ../downloads/downloads-edit.php:59
 msgid "Please enter download title."
-msgstr ""
+msgstr "Voer de downloadtitel in."
 
 #: ../downloads/downloads-add.php:52
 msgid "Please enter download URL."
-msgstr ""
+msgstr "Voer de download-URL in."
 
 #: ../downloads/downloads-add.php:63 ../downloads/downloads-edit.php:71
 msgid "Please select valid expiration type."
-msgstr ""
+msgstr "Selecteer een geldig Type verloop."
 
 #: ../downloads/downloads-add.php:69 ../downloads/downloads-edit.php:77
 msgid "Please enter valid expiration date."
-msgstr ""
+msgstr "Voer een geldige vervaldatum in."
 
 #: ../downloads/downloads-add.php:80
 msgid "Download link was successfully created."
-msgstr ""
+msgstr "Downloadlink is succesvol gemaakt."
 
 #: ../downloads/downloads-add.php:84 ../downloads/downloads-edit.php:92
 msgid "Failed to create record. Please contact plugin admin."
-msgstr ""
+msgstr "Kan geen record maken. Neem contact op met pluginbeheerder."
 
 #: ../downloads/downloads-add.php:113 ../downloads/downloads-edit.php:109
 #: ../settings/settings-edit.php:131
 msgid "Click here"
-msgstr ""
+msgstr "klik hier"
 
 #: ../downloads/downloads-add.php:114 ../downloads/downloads-edit.php:110
 #: ../settings/settings-edit.php:132
 msgid " to view the details"
-msgstr ""
+msgstr " om de details te bekijken"
 
 #: ../downloads/downloads-add.php:148
 msgid "Add download link"
-msgstr ""
+msgstr "Downloadlink toevoegen"
 
 #: ../downloads/downloads-add.php:150 ../downloads/downloads-edit.php:146
 #: ../downloads/downloads-view.php:50
@@ -340,47 +344,47 @@ msgstr ""
 #: ../downloads/downloads-show.php:63 ../downloads/downloads-show.php:74
 #: ../downloads/downloads-view.php:42
 msgid "Title"
-msgstr ""
+msgstr "Titel"
 
 #: ../downloads/downloads-add.php:159 ../downloads/downloads-edit.php:155
 #: ../downloads/downloads-show.php:67 ../downloads/downloads-show.php:78
 #: ../downloads/downloads-view.php:66
 msgid "Group"
-msgstr ""
+msgstr "Groep"
 
 #: ../downloads/downloads-add.php:177 ../downloads/downloads-edit.php:181
 msgid "Expiration date"
-msgstr ""
+msgstr "Verval datum"
 
 #: ../downloads/downloads-add.php:181 ../downloads/downloads-edit.php:185
 msgid "URL refresh"
-msgstr ""
+msgstr "URL ververs"
 
 #: ../downloads/downloads-edit.php:65
 msgid "Please enter valid download URL."
-msgstr ""
+msgstr "Voer een geldige download URL in."
 
 #: ../downloads/downloads-edit.php:88
 msgid "Download link was successfully updated."
-msgstr ""
+msgstr "Downloadlink is succesvol bijgewerkt."
 
 #: ../downloads/downloads-edit.php:144
 msgid "Edit download link"
-msgstr ""
+msgstr "Bewerk de downloadkoppeling"
 
 #: ../downloads/downloads-show.php:23
 #: ../subscribers/subscribers-downloads.php:20
 #: ../subscribers/subscribers-email.php:19
 #: ../subscribers/subscribers-show.php:24
 msgid "Oops, selected details doesnt exist"
-msgstr ""
+msgstr "Oeps, geselecteerde gegevens bestaan niet"
 
 #: ../downloads/downloads-show.php:32
 #: ../subscribers/subscribers-downloads.php:29
 #: ../subscribers/subscribers-email.php:28
 #: ../subscribers/subscribers-show.php:34
 msgid "Selected record was successfully deleted."
-msgstr ""
+msgstr "Geselecteerde informatie is succesvol verwijderd."
 
 #: ../downloads/downloads-show.php:48
 msgid "Download links"
@@ -388,7 +392,7 @@ msgstr ""
 
 #: ../downloads/downloads-show.php:49 ../downloads/downloads-show.php:161
 msgid "Add New"
-msgstr ""
+msgstr "Nieuwe toevoegen"
 
 #: ../downloads/downloads-show.php:64 ../downloads/downloads-show.php:75
 msgid "Link"
@@ -400,30 +404,30 @@ msgstr ""
 
 #: ../downloads/downloads-show.php:68 ../downloads/downloads-show.php:79
 msgid "Expire"
-msgstr ""
+msgstr "Vervallen"
 
 #: ../downloads/downloads-show.php:69 ../downloads/downloads-show.php:80
 msgid "Expiration"
-msgstr ""
+msgstr "Vervaltijd"
 
 #: ../downloads/downloads-show.php:96
 msgid "View"
-msgstr ""
+msgstr "Bekijken"
 
 #: ../downloads/downloads-show.php:99
 msgid "Edit"
-msgstr ""
+msgstr "Aanpassen"
 
 #: ../downloads/downloads-show.php:102
 msgid "Delete"
-msgstr ""
+msgstr "Wissen"
 
 #: ../downloads/downloads-show.php:128
 #: ../subscribers/subscribers-downloads.php:112
 #: ../subscribers/subscribers-email.php:111
 #: ../subscribers/subscribers-show.php:116
 msgid "No records available"
-msgstr ""
+msgstr "Geen gegevens beschikbaar "
 
 #: ../downloads/downloads-show.php:145
 #: ../subscribers/subscribers-downloads.php:129
@@ -445,35 +449,35 @@ msgstr ""
 #: ../subscribers/subscribers-export.php:50
 #: ../subscribers/subscribers-show.php:150
 msgid "Export Emails"
-msgstr ""
+msgstr "E-mail exporteren"
 
 #: ../downloads/downloads-view.php:39
 msgid "View download link"
-msgstr ""
+msgstr "Download link bekijken"
 
 #: ../downloads/downloads-view.php:46
 msgid "Description"
-msgstr ""
+msgstr "Beschrijving"
 
 #: ../downloads/downloads-view.php:54
 msgid "Download absolute path"
-msgstr ""
+msgstr "Absoluut pad downloaden"
 
 #: ../downloads/downloads-view.php:58
 msgid "Total Downloads"
-msgstr ""
+msgstr "Totaal downloads"
 
 #: ../downloads/downloads-view.php:62
 msgid "Expiration Type"
-msgstr ""
+msgstr "Vervaltype"
 
 #: ../downloads/downloads-view.php:70
 msgid "Expiration Date"
-msgstr ""
+msgstr "Verval datum"
 
 #: ../downloads/downloads-view.php:74
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../downloads/downloads-view.php:78
 msgid "Download Id"
@@ -493,110 +497,118 @@ msgstr ""
 #: ../subscribers/subscribers-export.php:49
 #: ../subscribers/subscribers-show.php:149
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 #: ../job/ed-download.php:71
 msgid "Your download should automatically begin in a few seconds."
-msgstr ""
+msgstr "Uw download zou binnen enkele seconden automatisch moeten beginnen."
 
 #: ../job/ed-export.php:26
 msgid "Unexpected url submit has been detected"
-msgstr ""
+msgstr "Onverwachte verzending URL is gedetecteerd"
 
 #: ../job/ed-export.php:32
 msgid "Unexpected url submit has been detected. Same URL is not detected."
-msgstr ""
+msgstr "Onverwachte verzending URL is gedetecteerd. Dezelfde URL wordt niet gedetecteerd."
 
 #: ../job/ed-export.php:37
 msgid "Unexpected url submit has been detected. Request is not posted."
-msgstr ""
+msgstr "Onverwachte verzending URL is gedetecteerd. Verzoek is niet geplaatst."
 
 #: ../settings/settings-edit.php:89
 msgid "Please enter sender of notifications from name."
-msgstr ""
+msgstr "Voer naam verzender in voor meldingen."
 
 #: ../settings/settings-edit.php:95
 msgid "Please enter sender of notifications from email."
-msgstr ""
+msgstr "Voer de afzender van meldingen in via e-mail."
 
 #: ../settings/settings-edit.php:153
 msgid "Sender of notifications"
-msgstr ""
+msgstr "Afzender van meldingen"
 
 #: ../settings/settings-edit.php:154
 msgid ""
 "Choose a FROM name and FROM email address for all emails from this plugin."
 msgstr ""
+"Kies een FROM-naam en een FROM-e-mailadres voor alle e-mails van deze plug-in."
 
 #: ../settings/settings-edit.php:163
 msgid "Mail type"
-msgstr ""
+msgstr "E-mail type"
 
 #: ../settings/settings-edit.php:164
 msgid ""
 "Option 1 & 2 is to send mails with default Wordpress method wp_mail(). "
 "Option 3 & 4 is to send mails with PHP method mail()"
 msgstr ""
+"Optie 1 & 2 is om e-mails te verzenden met de standaard Wordpress-methode wp_mail ()."
+"Optie 3 & 4 is om e-mails te verzenden met PHP-methode mail ()""
 
 #: ../settings/settings-edit.php:178
 msgid "Download link mail subject"
-msgstr ""
+msgstr "Download link mail onderwerp"
 
 #: ../settings/settings-edit.php:179
 msgid ""
 "Enter the mail subject for download link mail. This will send whenever user "
 "is requested download link."
 msgstr ""
+"Voer het e-mailonderwerp in voor downloadkoppeling per e-mail, deze verzendt wanneer gebruiker"
+"is verzocht om downloadlink."
 
 #: ../settings/settings-edit.php:185
 msgid "Download link mail content"
-msgstr ""
+msgstr "Download link mail inhoud"
 
 #: ../settings/settings-edit.php:186
 msgid ""
 "Enter the mail content for download link mail. This will send whenever user "
 "is requested download link."
 msgstr ""
+"Voer de e-mailinhoud in voor het downloaden van linkmail, dit naar elke ontvanger "
+"de verzochte downloadlink."
 
 #: ../settings/settings-edit.php:195
 msgid "Mail to admin"
-msgstr ""
+msgstr "E-mail naar admin"
 
 #: ../settings/settings-edit.php:196
 msgid ""
 "To send admin notifications for new download email, This option must be set "
 "to YES."
-msgstr ""
+msgstr "Als u beheerdersmeldingen wilt verzenden voor nieuwe downloadw e-mail, moet deze optie worden ingesteld "
+"naar JA."
 
 #: ../settings/settings-edit.php:207
 msgid "Admin email addresses"
-msgstr ""
+msgstr "Admin e-mail adres"
 
 #: ../settings/settings-edit.php:208
 msgid ""
 "Enter the admin email addresses that should receive notifications (separate "
 "by comma)."
-msgstr ""
+msgstr "Meerdere admin e-mail berichten scheiden met een komma."
 
 #: ../settings/settings-edit.php:214
 msgid "Admin mail subject"
-msgstr ""
+msgstr "Admin e-mail onderwerp"
 
 #: ../settings/settings-edit.php:215
 msgid ""
 "Enter the subject for admin mail. This will send whenever new download email "
 "sent to requester."
-msgstr ""
+msgstr "Geef onderwerp voor admin e-mail. Dit gaat naar elke ontvanger bij elke nieuwe download"
 
 #: ../settings/settings-edit.php:222
 msgid ""
 "Enter the mail content for admin. This will send whenever new download email "
 "sent to requester."
-msgstr ""
+msgstr "Geef inhoud voor admin bericht. Elke ontvanger krijg dit bij een nieuwe download"
 
 #: ../settings/settings-edit.php:230
 msgid "Expired link content"
-msgstr ""
+msgstr "Verlopen link inhoud"
 
 #: ../settings/settings-edit.php:231
 msgid "Enter the content to display if download link has expired."
@@ -604,31 +616,31 @@ msgstr ""
 
 #: ../settings/settings-edit.php:237
 msgid "Invalid link content"
-msgstr ""
+msgstr "Voer de inhoud in die moet worden weergegeven als de downloadlink is verlopen."
 
 #: ../settings/settings-edit.php:238
 msgid "Enter the content to display if download link is invalid."
-msgstr ""
+msgstr "Voer de inhoud in die moet worden weergegeven als de downloadkoppeling ongeldig is."
 
 #: ../settings/settings-edit.php:249
 msgid "Save Settings"
-msgstr ""
+msgstr "Bewaar instellingen"
 
 #: ../settings/settings-sync.php:16
 msgid "Table sync completed successfully."
-msgstr ""
+msgstr "Tabelsynchronisatie is voltooid."
 
 #: ../settings/settings-sync.php:29
 msgid "Sync plugin tables"
-msgstr ""
+msgstr "Synchroniseer plugin-tabellen"
 
 #: ../settings/settings-sync.php:33
 msgid "Click to sync tables"
-msgstr ""
+msgstr "Klik om tabellen te synchroniseren"
 
 #: ../subscribers/subscribers-downloads.php:45
 msgid "Download History (By Download URL)"
-msgstr ""
+msgstr "Downloadgeschiedenis (op download-URL)"
 
 #: ../subscribers/subscribers-downloads.php:59
 #: ../subscribers/subscribers-downloads.php:70
@@ -637,7 +649,7 @@ msgstr ""
 #: ../subscribers/subscribers-show.php:63
 #: ../subscribers/subscribers-show.php:73
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: ../subscribers/subscribers-downloads.php:61
 #: ../subscribers/subscribers-downloads.php:72
@@ -646,7 +658,7 @@ msgstr ""
 #: ../subscribers/subscribers-show.php:65
 #: ../subscribers/subscribers-show.php:75
 msgid "Downloaded"
-msgstr ""
+msgstr "Gedownload"
 
 #: ../subscribers/subscribers-downloads.php:62
 #: ../subscribers/subscribers-downloads.php:73
@@ -655,7 +667,7 @@ msgstr ""
 #: ../subscribers/subscribers-show.php:66
 #: ../subscribers/subscribers-show.php:76
 msgid "Download Title"
-msgstr ""
+msgstr "Download titel"
 
 #: ../subscribers/subscribers-downloads.php:64
 #: ../subscribers/subscribers-downloads.php:75
@@ -666,7 +678,7 @@ msgstr ""
 #: ../subscribers/subscribers-show.php:68
 #: ../subscribers/subscribers-show.php:78
 msgid "Action"
-msgstr ""
+msgstr "Actie"
 
 #: ../subscribers/subscribers-downloads.php:74
 msgid "Downloads "
@@ -674,11 +686,11 @@ msgstr ""
 
 #: ../subscribers/subscribers-email.php:44
 msgid "Download History (By Email)"
-msgstr ""
+msgstr "Downloadgeschiedenis (op download-URL)"
 
 #: ../subscribers/subscribers-export.php:12
 msgid "Export email address in csv format"
-msgstr ""
+msgstr "Exporteer e-mailadres(sen) in csv formaat"
 
 #: ../subscribers/subscribers-export.php:17
 #: ../subscribers/subscribers-export.php:25
@@ -688,26 +700,26 @@ msgstr ""
 #: ../subscribers/subscribers-export.php:18
 #: ../subscribers/subscribers-export.php:26
 msgid "Export option"
-msgstr ""
+msgstr "Exporteer opties"
 
 #: ../subscribers/subscribers-export.php:19
 #: ../subscribers/subscribers-export.php:27
 msgid "Total email"
-msgstr ""
+msgstr "totaal e-mail"
 
 #: ../subscribers/subscribers-export.php:34
 msgid "Export unique email address."
-msgstr ""
+msgstr "Exporteer unieke e-mailadres(sen)."
 
 #: ../subscribers/subscribers-export.php:36
 #: ../subscribers/subscribers-export.php:42
 msgid "Click to export csv"
-msgstr ""
+msgstr "Klik om csv te exporteren "
 
 #: ../subscribers/subscribers-export.php:40
 msgid "Export all email address with download details."
-msgstr ""
+msgstr "Exporteer alle e-mail adressen zonder download gegevens"
 
 #: ../subscribers/subscribers-show.php:50
 msgid "Download History (Full List)"
-msgstr ""
+msgstr "Downloadgeschiedenis (volledige lijst)"
