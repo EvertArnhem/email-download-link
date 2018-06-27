@@ -27,7 +27,7 @@ msgstr "E-mail adres is ongeldig."
 msgid ""
 "Validation errors occurred. Please confirm the fields and submit it again."
 msgstr ""
-"Validatiefouten opgetreden. Controleer en pas de velden aan en klik darna "
+"Validatiefouten opgetreden. Controleer en pas de velden aan en klik daarna "
 "nogmaals op verzend."
 
 #: ../base/ed-defined.php:19
